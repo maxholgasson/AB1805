@@ -10,8 +10,7 @@ Installation
 ======================
 Two options for I2C connectivity:
 - Using Wire.h
-- Using Wayne Truchsess' Arduino I2C Library
-http://dsscircuits.com/index.php/articles/66-arduino-i2c-master-library
+
 
 I2C supported, No SPI support.
 
